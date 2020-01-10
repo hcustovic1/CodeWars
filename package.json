@@ -1,0 +1,22 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "My solutions to CodeWars problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcustovic1/CodeWars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcustovic1/CodeWars/issues"
+  },
+  "homepage": "https://github.com/hcustovic1/CodeWars#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
