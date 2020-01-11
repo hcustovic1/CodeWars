@@ -7,3 +7,4 @@ My solutions to a wide variety of CodeWars problems, written in Javascript.
 **[Problem 2: Descending Order](/Problem_2/ "Problem 2: Descending Order")** <br>
 **[Problem 3: Digital Root](/Problem_3/ "Problem 3: Digital Root")** <br>
 **[Problem 4: Delete Nth](/Problem_4/ "Problem 4: Delete Nth")** <br>
+**[Problem 5: Persistent Bugger](/Problem_5/ "Problem 4: Persistent Bugger")** <br>
