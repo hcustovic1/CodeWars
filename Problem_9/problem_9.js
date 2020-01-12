@@ -2,7 +2,8 @@ const anagrams = (word, words) => {
   const sortedWord = word
     .split("")
     .sort()
-    .join("");
+    .join("")
+    
   return words.filter(
     possibleAnagram =>
       possibleAnagram.length === word.length &&
@@ -10,7 +11,7 @@ const anagrams = (word, words) => {
         .split("")
         .sort()
         .join("") === sortedWord
-  );
-};
+  )
+}
 
 module.exports = anagrams;
