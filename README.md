@@ -1,4 +1,5 @@
 # CodeWars Problems
+
 My solutions to a wide variety of CodeWars problems, written in Javascript.
 
 ## Problems
@@ -11,3 +12,4 @@ My solutions to a wide variety of CodeWars problems, written in Javascript.
 **[Problem 6: Convert string to camel case](/Problem_6/ "Problem 6: Convert string to camel case")** <br>
 **[Problem 7: Bouncing Balls](/Problem_7/ "Problem 7: Bouncing Balls")** <br>
 **[Problem 8: Scramblies](/Problem_8/ "Problem 8: Scramblies")** <br>
+**[Problem 9: Where my anagrams at?](/Problem_9/ "Problem 9: Where my anagrams at?")** <br>
