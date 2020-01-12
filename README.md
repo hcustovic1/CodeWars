@@ -9,3 +9,4 @@ My solutions to a wide variety of CodeWars problems, written in Javascript.
 **[Problem 4: Delete Nth](/Problem_4/ "Problem 4: Delete Nth")** <br>
 **[Problem 5: Persistent Bugger](/Problem_5/ "Problem 5: Persistent Bugger")** <br>
 **[Problem 6: Convert string to camel case](/Problem_6/ "Problem 6: Convert string to camel case")** <br>
+**[Problem 7: Bouncing Balls](/Problem_7/ "Problem 7: Bouncing Balls")** <br>

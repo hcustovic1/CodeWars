@@ -9,6 +9,6 @@ const persistence = num => {
   }
 
   return persistenceCount;
-};
+}
 
 module.exports = persistence
