@@ -16,3 +16,4 @@ My solutions to a wide variety of CodeWars problems, written in Javascript.
 **[Problem 10: Maximum subarray sum](/Problem_10/ "Problem 10: Maximum subarray sum")** <br>
 **[Problem 11: Dubstep](/Problem_11/ "Problem 11: Dubstep")** <br>
 **[Problem 12: Replace With Alphabet Position](/Problem_12/ "Problem 12: Replace With Alphabet Position")** <br>
+**[Problem 13: Integers: Recreation One](/Problem_13/ "Problem 13: Integers: Recreation One")** <br>
