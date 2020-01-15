@@ -17,3 +17,5 @@ My solutions to a wide variety of CodeWars problems, written in Javascript.
 **[Problem 11: Dubstep](/Problem_11/ "Problem 11: Dubstep")** <br>
 **[Problem 12: Replace With Alphabet Position](/Problem_12/ "Problem 12: Replace With Alphabet Position")** <br>
 **[Problem 13: Integers: Recreation One](/Problem_13/ "Problem 13: Integers: Recreation One")** <br>
+**[Problem 14: Sum of the first nth term of Series](/Problem_14/ "Problem 14: Sum of the first nth term of Series")** <br>
+**[Problem 15: Are they the same?](/Problem_15/ "Problem 15: Are they the same?")** <br>
