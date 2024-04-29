@@ -4,7 +4,8 @@
   "description": "My solutions to CodeWars problems",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "vitest",
+    "format": "npx prettier . --write"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,8 @@
     "url": "https://github.com/hcustovic1/CodeWars/issues"
   },
   "homepage": "https://github.com/hcustovic1/CodeWars#readme",
-  "dependencies": {
-    "jest": "^24.9.0"
+  "devDependencies": {
+    "prettier": "3.2.5",
+    "vitest": "^1.5.2"
   }
 }
