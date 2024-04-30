@@ -7,13 +7,13 @@ Notes:
 Only lower case letters will be used (a-z). No punctuation or digits will be included.
 Performance needs to be considered
 
-```javascript
+```typescript
 Input strings s1 and s2 are null terminated.
 ```
 
 Examples
 
-```javascript
+```typescript
 
 scramble('rkqodlw', 'world') ==> True
 scramble('cedewaraaossoqqyt', 'codewars') ==> True

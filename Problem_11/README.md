@@ -16,7 +16,7 @@ Return the words of the initial song that Polycarpus used to make a dubsteb remi
 
 Examples
 
-```javascript
+```typescript
 songDecoder('WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB')
 // =>  WE ARE THE CHAMPIONS MY FRIEND
 ```

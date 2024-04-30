@@ -19,7 +19,7 @@ The ball can only be seen if the height of the rebounding ball is strictly great
 
 Example:
 
-```javascript
+```typescript
 
 - h = 3, bounce = 0.66, window = 1.5, result is 3
 

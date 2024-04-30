@@ -8,7 +8,7 @@ If anything in the text isn't a letter, ignore it and don't return it.
 
 Example
 
-```javascript
+```typescript
 alphabetPosition("The sunset sets at twelve o' clock.")
 ```
 

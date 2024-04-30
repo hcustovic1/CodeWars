@@ -6,7 +6,7 @@ A digital root is the recursive sum of all the digits in a number. Given n, take
 
 Here's how it works:
 
-```javascript
+```typescript
 digital_root(16)
 => 1 + 6
 => 7
