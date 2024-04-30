@@ -20,3 +20,4 @@ My solutions to a wide variety of CodeWars problems, written in Typescript.
 **[Problem 14: Sum of the first nth term of Series](/Problem_14/ 'Problem 14: Sum of the first nth term of Series')** <br>
 **[Problem 15: Are they the same?](/Problem_15/ 'Problem 15: Are they the same?')** <br>
 **[Problem 16: A square of squares](/Problem_16/ 'Problem 16: A square of squares')** <br>
+**[Problem 17: Take a Ten Minutes Walk](/Problem_17/ 'Problem 17: Take a Ten Minutes Walk')** <br>
