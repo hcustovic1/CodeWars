@@ -21,3 +21,4 @@ My solutions to a wide variety of CodeWars problems, written in Typescript.
 **[Problem 15: Are they the same?](/Problem_15/ 'Problem 15: Are they the same?')** <br>
 **[Problem 16: A square of squares](/Problem_16/ 'Problem 16: A square of squares')** <br>
 **[Problem 17: Take a Ten Minutes Walk](/Problem_17/ 'Problem 17: Take a Ten Minutes Walk')** <br>
+**[Problem 18: Count the number of Duplicates](/Problem_18/ 'Problem 18: Count the number of Duplicates')** <br>
